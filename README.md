@@ -1,2 +1,3 @@
 # gitRemote
-learn git 
+learn git for fun
+
