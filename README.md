@@ -1,2 +1,4 @@
-# gitRemote
+# gitRemot
 learn git for fun
+
+
